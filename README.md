@@ -1,2 +1,2 @@
 # csmurray-test-repo
-My test git repository
+Testing github through Rstudio
